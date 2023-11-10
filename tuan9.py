@@ -1,3 +1,4 @@
+#TRAN NGOC ANH
 # mylist=input("Nhập phần tử của list: ").split()
 # print(mylist)
 # pt=int(input('Nhâp số lượng phần tử muốn nhập: '))

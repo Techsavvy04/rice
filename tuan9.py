@@ -9,3 +9,4 @@ s = list('HOA LU')
 print(f"Số phần tử của danh sách là: {len(s)}")
 a = list(range(10))
 print(a)
+not

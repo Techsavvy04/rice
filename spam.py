@@ -1,3 +1,4 @@
+ # -*- coding: utf-8 -*-
 import requests,os,sys
 import re
 from time import sleep
